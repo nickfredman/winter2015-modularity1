@@ -98,5 +98,6 @@
 }
 
 .media-text {
-  margin: left: 10px;
+  margin-left: 10px;
+  overflow: hidden;
 }
