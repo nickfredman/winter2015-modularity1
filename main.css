@@ -1,0 +1,68 @@
+/* ADD YOUR STYLES HERE */
+.tabular {
+  font-size: 14px;
+}
+
+.table-row {
+  border-bottom: 1px solid #ccc;
+}
+
+.table-item {
+  padding:10px 50px 10px 50px;
+}
+
+.table-row-stats {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.table-number-stats {
+  padding: 15px 15px 0 15px;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.table-words-stats {
+  padding: 0 15px 15px 15px;
+  font-size: 9px;
+  color: #ccc;
+  text-align: center;
+}
+
+.bar-table {
+  width: 95%;
+}
+
+.bar-text {
+  font-size: 14px;
+  text-align: right;
+  padding-right: 5px;
+  width: 80px;
+}
+
+.bar-percent {
+  font-size: 14px;
+  color: #fff;
+  background: #5D98E3;
+  padding-left: 3px;
+  border-radius: 0 2px 2px 0;
+  margin-right: 80px;
+}
+
+.lightbox {
+  border: 1px solid #595959;
+  border-radius: 10px;
+  display: fixed;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.lightbox-title {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+.lightbox-text {
+  margin: 15px;
+}
