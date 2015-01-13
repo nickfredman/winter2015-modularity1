@@ -50,19 +50,53 @@
   margin-right: 80px;
 }
 
+/*Commented out, uncomment to see the full-screen lightbox*/
+/*.gray-box {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(88,88,88,.95);
+}
+
 .lightbox {
   border: 1px solid #595959;
+  background: white;
   border-radius: 10px;
-  display: fixed;
-  width: 75%;
-  margin: 0 auto;
+  width: 600px;
+  margin: 20% auto;
+  overflow: hidden;
 }
 
 .lightbox-title {
-  margin-top: 15px;
-  margin-left: 15px;
+  margin-top: 20px;
+  margin-left: 20px;
 }
 
 .lightbox-text {
-  margin: 15px;
+  margin: 20px;
+}
+
+.lightbox-button {
+  color: white;
+  background: #F97783;
+  width: 120px;
+  margin: 0 20px 20px 0;
+  float: right;
+  text-align: center;
+  text-decoration: none;
+  height: 40px;
+  border-radius: 5px;
+  line-height: 40px;
+}*/
+
+.media-block {
+  float: left;
+  margin-right: 10px;
+  display: block;
+}
+
+.media-text {
+  margin: left: 10px;
 }
